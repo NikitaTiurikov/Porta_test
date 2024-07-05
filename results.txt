@@ -1,0 +1,7 @@
+Maximum number in file: -49999996
+Maximum number in file: 49999978
+Average: 7364.418442641844
+Median: 25216
+The longest ascending sequence: 10
+The longest descending sequence: 11
+
